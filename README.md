@@ -27,9 +27,8 @@ The project is still in development and the next updates will focus on the follo
 - [ ] Develop Frontend
 - [ ] Develop Backend
 
-## 💻 Prototipe
-<img src="" alt="Home">
-<img src="" alt="Task">
+## :sparkles: Prototipe
+<img src="Docs/Prototipes.png" alt="Home">
 
 ## 💻 Pré-requisitos
 
